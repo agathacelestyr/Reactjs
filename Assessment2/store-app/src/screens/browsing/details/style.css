@@ -1,0 +1,7 @@
+.product-detail {
+  border: 0.1vh solid black;
+}
+.Product-Window {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

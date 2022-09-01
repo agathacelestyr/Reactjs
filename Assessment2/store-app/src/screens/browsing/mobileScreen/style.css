@@ -1,0 +1,14 @@
+.mobile-section-container {
+  display: flex;
+  flex-direction: column;
+}
+.section-m-con1 {
+  display: flex;
+  flex-direction: column;
+}
+.horizonal-scrolling {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
